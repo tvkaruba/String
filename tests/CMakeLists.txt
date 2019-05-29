@@ -7,7 +7,4 @@ add_executable(tests
 
         ../src/String.h
         ../src/String.cpp
-
-#        gtest/gtest-all.cc
-#        gtest/gtest_main.cc
         )
